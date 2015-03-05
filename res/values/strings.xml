@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DPIChanger</string>
+
+    <string name="DPI180">180</string>
+    <string name="DPI200">200</string>
+    <string name="DPI220">220</string>
+    <string name="DPI240">240</string>
+    <string name="DPI320">320</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSet">Set DPI</string>
+
+</resources>
